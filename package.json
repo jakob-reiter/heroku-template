@@ -8,5 +8,9 @@
   "dependencies": {
     "directus": "^9.0.0-rc.40",
     "pg": "^8.5.1"
+  },
+  "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
   }
 }
