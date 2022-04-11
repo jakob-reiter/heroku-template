@@ -6,11 +6,11 @@
     "start": "directus start"
   },
   "dependencies": {
-    "directus": "^9.0.0-rc.40",
-    "pg": "^8.5.1"
+    "directus": "^9.8.0",
+    "pg": "^8.7.3"
   },
-  "engines" : { 
-    "npm" : "7.x",
-    "node" : "16.x"
+  "engines": {
+    "npm": "8.x",
+    "node": "16.x"
   }
 }
